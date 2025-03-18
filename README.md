@@ -30,6 +30,3 @@ This project integrates an MPU6050 sensor with Arduino to perform real-time moti
 ## Results and Improvements
 - Effective real-time tracking with minor (~5ms) delay.
 - Future enhancements include more accurate filtering (e.g., Kalman filter).
-
-## Contributions
-Contributions or improvements are welcome. Fork and submit pull requests!
